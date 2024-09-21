@@ -127,9 +127,8 @@ The steps for the exhaustive training and evaluation process is presented in the
 
 4. **Root Mean Squared Error (RMSE):**
 
-   <p align="center">
-  <img src="https://github.com/user-attachments/assets/1af49519-8c85-44e0-8248-32b467d2e9cf" alt="Image Description" width="500">
-   </p>
+    ![image](https://github.com/user-attachments/assets/1af49519-8c85-44e0-8248-32b467d2e9cf)
+
 
 
 
