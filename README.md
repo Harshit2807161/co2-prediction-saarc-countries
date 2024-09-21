@@ -100,7 +100,7 @@ scikit-learn
 
    These metrics are evaluated in both the training and validation datasets, and they provide insights into the model performance.
 
-The steps are presented in the following diagram:
+The steps for the exhaustive training and evaluation process is presented in the following diagram:
 
 ![image](https://github.com/user-attachments/assets/43c61277-5b2a-4ee6-8702-ab5a82802291)
 
