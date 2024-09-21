@@ -111,28 +111,20 @@ The steps for the exhaustive training and evaluation process is presented in the
 ### Key Metrics:
 
 1. **Mean Absolute Error (MAE):**
-   The MAE indicates how much inaccuracy is present in the predictions on average. A lower MAE reflects a more accurate model.
-   \[
-   MAE = \frac{1}{n} \sum_{i=1}^{n} |y_i - \hat{y_i}|
-   \]
+   ![image](https://github.com/user-attachments/assets/1c8439c7-845c-4370-92c8-b868496811b7)
 
-2. **Mean Squared Error (MSE):**
-   The MSE penalizes larger errors and is useful when you want to heavily weigh larger deviations between predicted and actual values.
-   \[
-   MSE = \frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y_i})^2
-   \]
+   
+3. **Mean Squared Error (MSE):**
+   ![image](https://github.com/user-attachments/assets/095ee802-888a-45bb-b587-0f1473ac00ee)
 
-3. **Mean Absolute Percentage Error (MAPE):**
-   MAPE expresses forecast errors as a percentage, offering a more interpretable metric for how far off predictions are from actual values.
-   \[
-   MAPE = \frac{100%}{n} \sum_{i=1}^{n} \frac{|y_i - \hat{y_i}|}{y_i}
-   \]
 
-4. **Root Mean Squared Error (RMSE):**
-   RMSE provides a measure of how much prediction errors vary. It’s a widely used metric in forecasting applications to understand prediction uncertainty.
-   \[
-   RMSE = \sqrt{\frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y_i})^2}
-   \]
+4. **Mean Absolute Percentage Error (MAPE):**
+   ![image](https://github.com/user-attachments/assets/3a140a92-6996-4074-be7e-e21f1d820ed0)
+
+
+5. **Root Mean Squared Error (RMSE):**
+   ![image](https://github.com/user-attachments/assets/1af49519-8c85-44e0-8248-32b467d2e9cf)
+
 
 ### Comparative Study:
 
