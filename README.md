@@ -111,19 +111,27 @@ The steps for the exhaustive training and evaluation process is presented in the
 ### Key Metrics:
 
 1. **Mean Absolute Error (MAE):**
+   
    ![image](https://github.com/user-attachments/assets/1c8439c7-845c-4370-92c8-b868496811b7)
 
    
-3. **Mean Squared Error (MSE):**
+2. **Mean Squared Error (MSE):**
+   
    ![image](https://github.com/user-attachments/assets/095ee802-888a-45bb-b587-0f1473ac00ee)
 
 
-4. **Mean Absolute Percentage Error (MAPE):**
+3. **Mean Absolute Percentage Error (MAPE):**
+   
    ![image](https://github.com/user-attachments/assets/3a140a92-6996-4074-be7e-e21f1d820ed0)
 
 
-5. **Root Mean Squared Error (RMSE):**
-   ![image](https://github.com/user-attachments/assets/1af49519-8c85-44e0-8248-32b467d2e9cf)
+4. **Root Mean Squared Error (RMSE):**
+
+   <p align="center">
+  <img src="https://github.com/user-attachments/assets/1af49519-8c85-44e0-8248-32b467d2e9cf" alt="Image Description" width="500">
+   </p>
+
+
 
 
 ### Comparative Study:
