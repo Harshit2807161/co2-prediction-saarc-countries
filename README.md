@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/7406ceeb-673c-468f-a3f6-d6399e22cc51)---
-
 # Analysis and Forecasting of Carbon Emission in SAARC Countries using Attention-based LSTM
 
 ## Abstract
@@ -9,6 +7,8 @@ Climate change and global warming are urgent environmental issues demanding imme
 Our comparative analysis conclusively demonstrates the superior performance of A-LSTM models over baseline LSTM models when applied to the CO2 emission dataset sourced from the Our World in Data (OWID) and World Bank Indicator database. Specifically, the LSTM model registers a MAPE of 24.968 and an RMSE of 0.34, whereas the Attention-based LSTM model showcases a marked improvement of 57% with a considerably lower MAPE of 10.5902 and an RMSE of 0.107.
 
 The proposed A-LSTM pipeline is:
+
+
 ![image](https://github.com/user-attachments/assets/0ade88ea-c192-415c-bcbd-c4f7f3bd4843)
 
 ---
