@@ -1,18 +1,15 @@
-final_input_data_clean_monthly.csv
-
-Here's an extensive `README.md` file based on the project description and the details you provided:
-
----
+![image](https://github.com/user-attachments/assets/7406ceeb-673c-468f-a3f6-d6399e22cc51)---
 
 # Analysis and Forecasting of Carbon Emission in SAARC Countries using Attention-based LSTM
 
 ## Abstract
 
-Climate change and global warming are urgent environmental issues demanding immediate action to safeguard future generations. The major contributor to the greenhouse effect, carbon dioxide (CO2), primarily originates from industrial and transportation fossil fuel combustion. International agreements, like the Paris Agreement, call for a 30-35% reduction in CO2 emissions compared to 2005 levels. This research aims to predict CO2 emissions and raise awareness among SAARC nations and governments about the increasing trend.
-
-We introduce a novel predictive framework using Attention-based Long Short-Term Memory (A-LSTM) for CO2 emissions analysis. The Attention mechanism assigns variable weights to input data, facilitating indirect connections between LSTM outputs and pertinent inputs. This enhances resource allocation in the A-LSTM model, overcoming computational constraints. We integrate input parameters encompassing CO2 emissions from land-use changes, oil, natural gas, and coal combustion to forecast CO2 emissions and correlate them with population and per capita GDP. 
+Climate change and global warming are urgent environmental issues demanding immediate action to safeguard future generations. The major contributor to the greenhouse effect, carbon dioxide (CO2), primarily originates from industrial and transportation fossil fuel combustion. International agreements, like the Paris Agreement, call for a 30-35% reduction in CO2 emissions compared to 2005 levels. This research aims to predict CO2 emissions and raise awareness among SAARC nations and governments about the increasing trend. We introduce a novel predictive framework using Attention-based Long Short-Term Memory (A-LSTM) for CO2 emissions analysis. The Attention mechanism assigns variable weights to input data, facilitating indirect connections between LSTM outputs and pertinent inputs. This enhances resource allocation in the A-LSTM model, overcoming computational constraints. We integrate input parameters encompassing CO2 emissions from land-use changes, oil, natural gas, and coal combustion to forecast CO2 emissions and correlate them with population and per capita GDP. 
 
 Our comparative analysis conclusively demonstrates the superior performance of A-LSTM models over baseline LSTM models when applied to the CO2 emission dataset sourced from the Our World in Data (OWID) and World Bank Indicator database. Specifically, the LSTM model registers a MAPE of 24.968 and an RMSE of 0.34, whereas the Attention-based LSTM model showcases a marked improvement of 57% with a considerably lower MAPE of 10.5902 and an RMSE of 0.107.
+
+The proposed A-LSTM pipeline is:
+![image](https://github.com/user-attachments/assets/0ade88ea-c192-415c-bcbd-c4f7f3bd4843)
 
 ---
 
@@ -102,6 +99,10 @@ scikit-learn
    - **Root Mean Square Error (RMSE)**
 
    These metrics are evaluated in both the training and validation datasets, and they provide insights into the model performance.
+
+The steps are presented in the following diagram:
+
+![image](https://github.com/user-attachments/assets/43c61277-5b2a-4ee6-8702-ab5a82802291)
 
 ---
 
