@@ -1,0 +1,17 @@
+column,description
+country,Geographic location.
+year,Year of observation.
+population,Population of each country or region.
+gdp,Gross domestic product measured in international-$ using 2011 prices to adjust for price changes over time (inflation) and price differences between countries. Calculated by multiplying GDP per capita with population.
+cement_co2,"Annual production-based emissions of carbon dioxide (CO₂) from cement, measured in million tonnes. This is based on territorial emissions, which do not account for emissions embedded in traded goods."
+co2,"Annual total production-based emissions of carbon dioxide (CO₂), excluding land-use change, measured in million tonnes. This is based on territorial emissions, which do not account for emissions embedded in traded goods."
+co2_including_luc,"Annual total production-based emissions of carbon dioxide (CO₂), including land-use change, measured in million tonnes. This is based on territorial emissions, which do not account for emissions embedded in traded goods."
+coal_co2,"Annual production-based emissions of carbon dioxide (CO₂) from coal, measured in million tonnes. This is based on territorial emissions, which do not account for emissions embedded in traded goods."
+consumption_co2,"Annual consumption-based emissions of carbon dioxide (CO₂), measured in million tonnes. Consumption-based emissions are national or regional emissions which have been adjusted for trade (i.e. territorial/production emissions minus emissions embedded in exports, plus emissions embedded in imports). If a country's consumption-based emissions are higher than its production emissions it is a net importer of carbon dioxide. Data has been converted by Our World in Data from million tonnes of carbon to million tonnes of CO₂ using a conversion factor of 3.664."
+flaring_co2,"Annual production-based emissions of carbon dioxide (CO₂) from flaring, measured in million tonnes. This is based on territorial emissions, which do not account for emissions embedded in traded goods."
+gas_co2,"Annual production-based emissions of carbon dioxide (CO₂) from gas, measured in million tonnes. This is based on territorial emissions, which do not account for emissions embedded in traded goods."
+land_use_change_co2,"Annual production-based emissions of carbon dioxide (CO₂) from land-use change, measured in million tonnes. This is based on territorial emissions, which do not account for emissions embedded in traded goods."
+oil_co2,"Annual production-based emissions of carbon dioxide (CO₂) from oil, measured in million tonnes. This is based on territorial emissions, which do not account for emissions embedded in traded goods."
+other_industry_co2,"Annual production-based emissions of carbon dioxide (CO₂) from other industry sources, measured in million tonnes. This is based on territorial emissions, which do not account for emissions embedded in traded goods."
+temperature_change_from_co2,"Change in global mean surface temperature (in °C) caused by CO2 emissions. This measures each country's contribution to global mean surface temperature (GMST) rise from its cumulative emissions of carbon dioxide. The warming effects of each gas are calculated based on cumulative CO2-equivalent emissions using the Global Warming Potential (GWP*) approach.
+"
